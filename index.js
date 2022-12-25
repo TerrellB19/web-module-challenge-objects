@@ -19,7 +19,7 @@ The function should:
 function createMenuItem(name, price, category){
   return{name, price, category}
 }
-console.log(createMenuItem('tacos', 8, 'lunch'))
+console.log('task 1:', createMenuItem('tacos', 8, 'lunch')) 
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b (not auto-tested): 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
